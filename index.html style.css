@@ -1,0 +1,27 @@
+h3{
+    background-color:burlywood;
+    color: crimson;
+    padding: 3%;
+    }
+    body{
+        background-color: darkolivegreen;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: larger;
+        font-weight: 300;
+        line-height: 1.6rem;
+    }
+    
+    .container{
+        background-color: rgb(30, 210, 141);
+    font-weight: bolder;
+    color: rgb(252, 0, 34);
+    padding: 5%;
+    }
+    #second-p{
+
+        color: rgb(187, 255, 0);
+        font-family: fantasy;
+        padding: 6%;
+    
+    }
+
